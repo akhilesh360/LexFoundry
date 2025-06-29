@@ -99,6 +99,10 @@ Implemented fine-grained row-level and column-level security policies within Fou
 - Implemented security policies to protect sensitive legal information  
 
 ---
-> **Disclaimer:**  
+
+## Disclaimer:
 > This project is an independent portfolio and demonstration project built using Palantir Foundry.  
 > All Palantir trademarks, logos, and software are the property of Palantir Technologies Inc. and are used here solely for demonstration and educational purposes.
+## [License](./LICENSE)
+This project is licensed as **All Rights Reserved**.  
+See the [LICENSE](./LICENSE) file in this repository for full terms and usage restrictions.
