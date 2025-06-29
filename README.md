@@ -105,4 +105,4 @@ Implemented fine-grained row-level and column-level security policies within Fou
 > All Palantir trademarks, logos, and software are the property of Palantir Technologies Inc. and are used here solely for demonstration and educational purposes.
 ## [License](./LICENSE)
 This project is licensed as **All Rights Reserved**.  
-See the [LICENSE](./LICENSE) file in this repository for full terms and usage restrictions.
+See the ([./LICENSE](https://github.com/akhilesh360/LexFoundry/blob/main/License#:~:text=t-,License,-README.md)) file in this repository for full terms and usage restrictions.
